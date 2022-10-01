@@ -1,0 +1,82 @@
+.styled-table {
+    border-collapse: collapse;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    margin-left: auto;
+    width: 70%;
+    margin-right: auto;
+    
+}
+h1
+{
+    text-align: center;
+}
+    .styled-table thead tr {
+        background-color: #ff7b48;
+        color: #ffffff;
+    }
+
+    .styled-table th,
+    .styled-table td {
+        padding: 12px 15px;
+        text-align: left;
+    }
+    .styled-table tbody tr {
+        border-bottom: 1px solid #dddddd;
+    }
+
+        .styled-table tbody tr:nth-of-type(even) {
+            background-color: #f3f3f3;
+        }
+
+        .styled-table tbody tr:last-of-type {
+            border-bottom: 2px solid #009879;
+        }
+        .styled-table tbody tr.active-row {
+            font-weight: bold;
+            color: #009879;
+        }
+
+/* top-left border-radius */
+table tr:first-child th:first-child {
+    border-top-left-radius: 6px;
+}
+
+/* top-right border-radius */
+table tr:first-child th:last-child {
+    border-top-right-radius: 6px;
+}
+
+/* bottom-left border-radius */
+table tr:last-child td:first-child {
+    border-bottom-left-radius: 6px;
+}
+tr:hover{
+    background-color: lightblue;
+}
+.addbtn{
+    background-color: lightgreen;
+    margin-left: 15%;
+    margin-bottom: 25px;
+    font-size: 14px;
+    font-weight: bold;
+    }
+    .delbtn{
+        background-color: lightcoral;
+    }
+    
+    .updbtn{
+        background-color: lightskyblue;
+    }
+    .addform{
+        box-sizing: border-box;
+        margin-left: 37%;
+    }
+    
+    label{
+        position: absolute;
+    }
+    #txt{
+        margin-left: 7em;
+    }

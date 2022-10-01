@@ -1,0 +1,30 @@
+C:\Users\Stephen.Carter\source\repos\EBooks\EBooks\bin\Debug\EBooks.exe.config
+C:\Users\Stephen.Carter\source\repos\EBooks\EBooks\bin\Debug\EBooks.exe
+C:\Users\Stephen.Carter\source\repos\EBooks\EBooks\bin\Debug\EBooks.pdb
+C:\Users\Stephen.Carter\source\repos\EBooks\EBooks\obj\Debug\EBooks.csprojAssemblyReference.cache
+C:\Users\Stephen.Carter\source\repos\EBooks\EBooks\obj\Debug\EBooks.Properties.Resources.resources
+C:\Users\Stephen.Carter\source\repos\EBooks\EBooks\obj\Debug\EBooks.csproj.GenerateResource.cache
+C:\Users\Stephen.Carter\source\repos\EBooks\EBooks\obj\Debug\EBooks.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.Carter\source\repos\EBooks\EBooks\obj\Debug\EBooks.exe
+C:\Users\Stephen.Carter\source\repos\EBooks\EBooks\obj\Debug\EBooks.pdb
+C:\Users\Stephen.Carter\source\repos\EBooks\EBooks\obj\Debug\EBooks.frmEBookOrder.resources
+D:\Study\Intro of Pro\Visual Studio\EBooks\EBooks\bin\Debug\EBooks.exe.config
+D:\Study\Intro of Pro\Visual Studio\EBooks\EBooks\bin\Debug\EBooks.exe
+D:\Study\Intro of Pro\Visual Studio\EBooks\EBooks\bin\Debug\EBooks.pdb
+D:\Study\Intro of Pro\Visual Studio\EBooks\EBooks\obj\Debug\EBooks.csprojAssemblyReference.cache
+D:\Study\Intro of Pro\Visual Studio\EBooks\EBooks\obj\Debug\EBooks.frmEBookOrder.resources
+D:\Study\Intro of Pro\Visual Studio\EBooks\EBooks\obj\Debug\EBooks.Properties.Resources.resources
+D:\Study\Intro of Pro\Visual Studio\EBooks\EBooks\obj\Debug\EBooks.csproj.GenerateResource.cache
+D:\Study\Intro of Pro\Visual Studio\EBooks\EBooks\obj\Debug\EBooks.csproj.CoreCompileInputs.cache
+D:\Study\Intro of Pro\Visual Studio\EBooks\EBooks\obj\Debug\EBooks.exe
+D:\Study\Intro of Pro\Visual Studio\EBooks\EBooks\obj\Debug\EBooks.pdb
+D:\Study\_Term1\Intro of Pro\Visual Studio\EBooks\EBooks\bin\Debug\EBooks.exe.config
+D:\Study\_Term1\Intro of Pro\Visual Studio\EBooks\EBooks\bin\Debug\EBooks.exe
+D:\Study\_Term1\Intro of Pro\Visual Studio\EBooks\EBooks\bin\Debug\EBooks.pdb
+D:\Study\_Term1\Intro of Pro\Visual Studio\EBooks\EBooks\obj\Debug\EBooks.csproj.AssemblyReference.cache
+D:\Study\_Term1\Intro of Pro\Visual Studio\EBooks\EBooks\obj\Debug\EBooks.frmEBookOrder.resources
+D:\Study\_Term1\Intro of Pro\Visual Studio\EBooks\EBooks\obj\Debug\EBooks.Properties.Resources.resources
+D:\Study\_Term1\Intro of Pro\Visual Studio\EBooks\EBooks\obj\Debug\EBooks.csproj.GenerateResource.cache
+D:\Study\_Term1\Intro of Pro\Visual Studio\EBooks\EBooks\obj\Debug\EBooks.csproj.CoreCompileInputs.cache
+D:\Study\_Term1\Intro of Pro\Visual Studio\EBooks\EBooks\obj\Debug\EBooks.exe
+D:\Study\_Term1\Intro of Pro\Visual Studio\EBooks\EBooks\obj\Debug\EBooks.pdb

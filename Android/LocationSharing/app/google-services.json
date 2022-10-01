@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "99043659270",
+    "project_id": "location-sharing-90109",
+    "storage_bucket": "location-sharing-90109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99043659270:android:225c2024f59acea12b7d87",
+        "android_client_info": {
+          "package_name": "com.smitpatel.locationsharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99043659270-e44tv4huve9jl12bafvrhqjtf10ce1fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8HUlWJ9Y3IucLlMAVxzFcE8Tm3G4t-qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99043659270-e44tv4huve9jl12bafvrhqjtf10ce1fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

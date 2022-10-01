@@ -1,0 +1,93 @@
+
+body{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    font-family: Arial, sans-serif;
+    margin-top: 5%;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 100%;
+    background-color: whitesmoke;
+    margin-top: 2%;
+    border-radius: 5px;
+    padding: 8px;
+
+}
+p{
+    line-height: 5px;
+    font-size: 15px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+#price{
+    float: right;
+}
+.container {
+    padding: 2px 16px;
+}
+
+#delete
+{
+    background-color: #04AA6D; /* Red */
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#edit
+{
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#delete:hover
+{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    color:white;
+    background-color: #F70000;
+}
+#edit:hover
+{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    color:white;
+    background-color: #276DC6;
+}
+#newpro
+{
+    background-image: linear-gradient(to right,#EF2D36, #9B0082);
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+#newpro:hover
+{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    color:white;
+}
+.buttons {
+    width: 200px;
+    transition: 0.3s;
+    margin: 0 auto;
+    display: inline;
+}
+.action_btn {
+    width: 200px;
+    margin: 0 auto;
+    display: inline;
+}

@@ -1,0 +1,30 @@
+C:\Users\Stephen.Carter\source\repos\GymMembership\GymMembership\bin\Debug\GymMembership.exe.config
+C:\Users\Stephen.Carter\source\repos\GymMembership\GymMembership\bin\Debug\GymMembership.exe
+C:\Users\Stephen.Carter\source\repos\GymMembership\GymMembership\bin\Debug\GymMembership.pdb
+C:\Users\Stephen.Carter\source\repos\GymMembership\GymMembership\obj\Debug\GymMembership.csprojAssemblyReference.cache
+C:\Users\Stephen.Carter\source\repos\GymMembership\GymMembership\obj\Debug\GymMembership.frmGymMembership.resources
+C:\Users\Stephen.Carter\source\repos\GymMembership\GymMembership\obj\Debug\GymMembership.Properties.Resources.resources
+C:\Users\Stephen.Carter\source\repos\GymMembership\GymMembership\obj\Debug\GymMembership.csproj.GenerateResource.cache
+C:\Users\Stephen.Carter\source\repos\GymMembership\GymMembership\obj\Debug\GymMembership.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.Carter\source\repos\GymMembership\GymMembership\obj\Debug\GymMembership.exe
+C:\Users\Stephen.Carter\source\repos\GymMembership\GymMembership\obj\Debug\GymMembership.pdb
+D:\Study\Intro of Pro\Visual Studio\GymMembership\GymMembership\bin\Debug\GymMembership.exe.config
+D:\Study\Intro of Pro\Visual Studio\GymMembership\GymMembership\bin\Debug\GymMembership.exe
+D:\Study\Intro of Pro\Visual Studio\GymMembership\GymMembership\bin\Debug\GymMembership.pdb
+D:\Study\Intro of Pro\Visual Studio\GymMembership\GymMembership\obj\Debug\GymMembership.csprojAssemblyReference.cache
+D:\Study\Intro of Pro\Visual Studio\GymMembership\GymMembership\obj\Debug\GymMembership.frmGymMembership.resources
+D:\Study\Intro of Pro\Visual Studio\GymMembership\GymMembership\obj\Debug\GymMembership.Properties.Resources.resources
+D:\Study\Intro of Pro\Visual Studio\GymMembership\GymMembership\obj\Debug\GymMembership.csproj.GenerateResource.cache
+D:\Study\Intro of Pro\Visual Studio\GymMembership\GymMembership\obj\Debug\GymMembership.csproj.CoreCompileInputs.cache
+D:\Study\Intro of Pro\Visual Studio\GymMembership\GymMembership\obj\Debug\GymMembership.exe
+D:\Study\Intro of Pro\Visual Studio\GymMembership\GymMembership\obj\Debug\GymMembership.pdb
+D:\Study\_Term1\Intro of Pro\Visual Studio\GymMembership\GymMembership\bin\Debug\GymMembership.exe.config
+D:\Study\_Term1\Intro of Pro\Visual Studio\GymMembership\GymMembership\bin\Debug\GymMembership.exe
+D:\Study\_Term1\Intro of Pro\Visual Studio\GymMembership\GymMembership\bin\Debug\GymMembership.pdb
+D:\Study\_Term1\Intro of Pro\Visual Studio\GymMembership\GymMembership\obj\Debug\GymMembership.csproj.AssemblyReference.cache
+D:\Study\_Term1\Intro of Pro\Visual Studio\GymMembership\GymMembership\obj\Debug\GymMembership.frmGymMembership.resources
+D:\Study\_Term1\Intro of Pro\Visual Studio\GymMembership\GymMembership\obj\Debug\GymMembership.Properties.Resources.resources
+D:\Study\_Term1\Intro of Pro\Visual Studio\GymMembership\GymMembership\obj\Debug\GymMembership.csproj.GenerateResource.cache
+D:\Study\_Term1\Intro of Pro\Visual Studio\GymMembership\GymMembership\obj\Debug\GymMembership.csproj.CoreCompileInputs.cache
+D:\Study\_Term1\Intro of Pro\Visual Studio\GymMembership\GymMembership\obj\Debug\GymMembership.exe
+D:\Study\_Term1\Intro of Pro\Visual Studio\GymMembership\GymMembership\obj\Debug\GymMembership.pdb

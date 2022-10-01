@@ -1,0 +1,30 @@
+C:\Users\Stephen.Carter\source\repos\TheatreNB\TheatreNB\bin\Debug\TheatreNB.exe.config
+C:\Users\Stephen.Carter\source\repos\TheatreNB\TheatreNB\bin\Debug\TheatreNB.exe
+C:\Users\Stephen.Carter\source\repos\TheatreNB\TheatreNB\bin\Debug\TheatreNB.pdb
+C:\Users\Stephen.Carter\source\repos\TheatreNB\TheatreNB\obj\Debug\TheatreNB.csprojAssemblyReference.cache
+C:\Users\Stephen.Carter\source\repos\TheatreNB\TheatreNB\obj\Debug\TheatreNB.frmTicketPurchase.resources
+C:\Users\Stephen.Carter\source\repos\TheatreNB\TheatreNB\obj\Debug\TheatreNB.Properties.Resources.resources
+C:\Users\Stephen.Carter\source\repos\TheatreNB\TheatreNB\obj\Debug\TheatreNB.csproj.GenerateResource.cache
+C:\Users\Stephen.Carter\source\repos\TheatreNB\TheatreNB\obj\Debug\TheatreNB.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.Carter\source\repos\TheatreNB\TheatreNB\obj\Debug\TheatreNB.exe
+C:\Users\Stephen.Carter\source\repos\TheatreNB\TheatreNB\obj\Debug\TheatreNB.pdb
+D:\Study\Intro of Pro\Visual Studio\TheatreNB\TheatreNB\bin\Debug\TheatreNB.exe.config
+D:\Study\Intro of Pro\Visual Studio\TheatreNB\TheatreNB\bin\Debug\TheatreNB.exe
+D:\Study\Intro of Pro\Visual Studio\TheatreNB\TheatreNB\bin\Debug\TheatreNB.pdb
+D:\Study\Intro of Pro\Visual Studio\TheatreNB\TheatreNB\obj\Debug\TheatreNB.csprojAssemblyReference.cache
+D:\Study\Intro of Pro\Visual Studio\TheatreNB\TheatreNB\obj\Debug\TheatreNB.frmTicketPurchase.resources
+D:\Study\Intro of Pro\Visual Studio\TheatreNB\TheatreNB\obj\Debug\TheatreNB.Properties.Resources.resources
+D:\Study\Intro of Pro\Visual Studio\TheatreNB\TheatreNB\obj\Debug\TheatreNB.csproj.GenerateResource.cache
+D:\Study\Intro of Pro\Visual Studio\TheatreNB\TheatreNB\obj\Debug\TheatreNB.csproj.CoreCompileInputs.cache
+D:\Study\Intro of Pro\Visual Studio\TheatreNB\TheatreNB\obj\Debug\TheatreNB.exe
+D:\Study\Intro of Pro\Visual Studio\TheatreNB\TheatreNB\obj\Debug\TheatreNB.pdb
+D:\Study\_Term1\Intro of Pro\Visual Studio\TheatreNB\TheatreNB\bin\Debug\TheatreNB.exe.config
+D:\Study\_Term1\Intro of Pro\Visual Studio\TheatreNB\TheatreNB\bin\Debug\TheatreNB.exe
+D:\Study\_Term1\Intro of Pro\Visual Studio\TheatreNB\TheatreNB\bin\Debug\TheatreNB.pdb
+D:\Study\_Term1\Intro of Pro\Visual Studio\TheatreNB\TheatreNB\obj\Debug\TheatreNB.csproj.AssemblyReference.cache
+D:\Study\_Term1\Intro of Pro\Visual Studio\TheatreNB\TheatreNB\obj\Debug\TheatreNB.frmTicketPurchase.resources
+D:\Study\_Term1\Intro of Pro\Visual Studio\TheatreNB\TheatreNB\obj\Debug\TheatreNB.Properties.Resources.resources
+D:\Study\_Term1\Intro of Pro\Visual Studio\TheatreNB\TheatreNB\obj\Debug\TheatreNB.csproj.GenerateResource.cache
+D:\Study\_Term1\Intro of Pro\Visual Studio\TheatreNB\TheatreNB\obj\Debug\TheatreNB.csproj.CoreCompileInputs.cache
+D:\Study\_Term1\Intro of Pro\Visual Studio\TheatreNB\TheatreNB\obj\Debug\TheatreNB.exe
+D:\Study\_Term1\Intro of Pro\Visual Studio\TheatreNB\TheatreNB\obj\Debug\TheatreNB.pdb

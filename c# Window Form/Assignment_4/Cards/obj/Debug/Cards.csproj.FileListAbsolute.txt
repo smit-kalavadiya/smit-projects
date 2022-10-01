@@ -1,0 +1,6 @@
+C:\Users\KiLLeR\Desktop\assignment-4-smit-kalavadiya-main\Assignment_4\Cards\bin\Debug\Cards.dll
+C:\Users\KiLLeR\Desktop\assignment-4-smit-kalavadiya-main\Assignment_4\Cards\bin\Debug\Cards.pdb
+C:\Users\KiLLeR\Desktop\assignment-4-smit-kalavadiya-main\Assignment_4\Cards\obj\Debug\Cards.csproj.AssemblyReference.cache
+C:\Users\KiLLeR\Desktop\assignment-4-smit-kalavadiya-main\Assignment_4\Cards\obj\Debug\Cards.csproj.CoreCompileInputs.cache
+C:\Users\KiLLeR\Desktop\assignment-4-smit-kalavadiya-main\Assignment_4\Cards\obj\Debug\Cards.dll
+C:\Users\KiLLeR\Desktop\assignment-4-smit-kalavadiya-main\Assignment_4\Cards\obj\Debug\Cards.pdb

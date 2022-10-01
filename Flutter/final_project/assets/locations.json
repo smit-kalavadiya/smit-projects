@@ -1,0 +1,14 @@
+{
+	"restaurant": [{
+		"name": "St James Gate",
+		"city": "Moncton",
+		"lat": 46.088769544836765,
+		"lng": -64.778269070025718
+	}, {
+		"name": "St James Gate",
+		"city": "Dieppe",
+		"lat": 46.08463754862383,
+		"lng": -64.695748492966
+	}
+	]
+}

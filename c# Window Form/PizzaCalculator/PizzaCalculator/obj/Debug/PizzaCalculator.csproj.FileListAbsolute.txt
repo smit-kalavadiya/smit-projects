@@ -1,0 +1,30 @@
+C:\Users\Stephen.Carter\source\repos\PizzaCalculator\PizzaCalculator\bin\Debug\PizzaCalculator.exe.config
+C:\Users\Stephen.Carter\source\repos\PizzaCalculator\PizzaCalculator\bin\Debug\PizzaCalculator.exe
+C:\Users\Stephen.Carter\source\repos\PizzaCalculator\PizzaCalculator\bin\Debug\PizzaCalculator.pdb
+C:\Users\Stephen.Carter\source\repos\PizzaCalculator\PizzaCalculator\obj\Debug\PizzaCalculator.csprojAssemblyReference.cache
+C:\Users\Stephen.Carter\source\repos\PizzaCalculator\PizzaCalculator\obj\Debug\PizzaCalculator.Form1.resources
+C:\Users\Stephen.Carter\source\repos\PizzaCalculator\PizzaCalculator\obj\Debug\PizzaCalculator.Properties.Resources.resources
+C:\Users\Stephen.Carter\source\repos\PizzaCalculator\PizzaCalculator\obj\Debug\PizzaCalculator.csproj.GenerateResource.cache
+C:\Users\Stephen.Carter\source\repos\PizzaCalculator\PizzaCalculator\obj\Debug\PizzaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.Carter\source\repos\PizzaCalculator\PizzaCalculator\obj\Debug\PizzaCalculator.exe
+C:\Users\Stephen.Carter\source\repos\PizzaCalculator\PizzaCalculator\obj\Debug\PizzaCalculator.pdb
+D:\Study\Intro of Pro\Visual Studio\PizzaCalculator\PizzaCalculator\bin\Debug\PizzaCalculator.exe.config
+D:\Study\Intro of Pro\Visual Studio\PizzaCalculator\PizzaCalculator\bin\Debug\PizzaCalculator.exe
+D:\Study\Intro of Pro\Visual Studio\PizzaCalculator\PizzaCalculator\bin\Debug\PizzaCalculator.pdb
+D:\Study\Intro of Pro\Visual Studio\PizzaCalculator\PizzaCalculator\obj\Debug\PizzaCalculator.csprojAssemblyReference.cache
+D:\Study\Intro of Pro\Visual Studio\PizzaCalculator\PizzaCalculator\obj\Debug\PizzaCalculator.Form1.resources
+D:\Study\Intro of Pro\Visual Studio\PizzaCalculator\PizzaCalculator\obj\Debug\PizzaCalculator.Properties.Resources.resources
+D:\Study\Intro of Pro\Visual Studio\PizzaCalculator\PizzaCalculator\obj\Debug\PizzaCalculator.csproj.GenerateResource.cache
+D:\Study\Intro of Pro\Visual Studio\PizzaCalculator\PizzaCalculator\obj\Debug\PizzaCalculator.csproj.CoreCompileInputs.cache
+D:\Study\Intro of Pro\Visual Studio\PizzaCalculator\PizzaCalculator\obj\Debug\PizzaCalculator.exe
+D:\Study\Intro of Pro\Visual Studio\PizzaCalculator\PizzaCalculator\obj\Debug\PizzaCalculator.pdb
+D:\Study\_Term1\Intro of Pro\Visual Studio\PizzaCalculator\PizzaCalculator\bin\Debug\PizzaCalculator.exe.config
+D:\Study\_Term1\Intro of Pro\Visual Studio\PizzaCalculator\PizzaCalculator\bin\Debug\PizzaCalculator.exe
+D:\Study\_Term1\Intro of Pro\Visual Studio\PizzaCalculator\PizzaCalculator\bin\Debug\PizzaCalculator.pdb
+D:\Study\_Term1\Intro of Pro\Visual Studio\PizzaCalculator\PizzaCalculator\obj\Debug\PizzaCalculator.csproj.AssemblyReference.cache
+D:\Study\_Term1\Intro of Pro\Visual Studio\PizzaCalculator\PizzaCalculator\obj\Debug\PizzaCalculator.Form1.resources
+D:\Study\_Term1\Intro of Pro\Visual Studio\PizzaCalculator\PizzaCalculator\obj\Debug\PizzaCalculator.Properties.Resources.resources
+D:\Study\_Term1\Intro of Pro\Visual Studio\PizzaCalculator\PizzaCalculator\obj\Debug\PizzaCalculator.csproj.GenerateResource.cache
+D:\Study\_Term1\Intro of Pro\Visual Studio\PizzaCalculator\PizzaCalculator\obj\Debug\PizzaCalculator.csproj.CoreCompileInputs.cache
+D:\Study\_Term1\Intro of Pro\Visual Studio\PizzaCalculator\PizzaCalculator\obj\Debug\PizzaCalculator.exe
+D:\Study\_Term1\Intro of Pro\Visual Studio\PizzaCalculator\PizzaCalculator\obj\Debug\PizzaCalculator.pdb

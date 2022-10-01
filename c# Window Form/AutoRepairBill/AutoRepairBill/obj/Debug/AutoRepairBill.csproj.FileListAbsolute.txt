@@ -1,0 +1,30 @@
+C:\Users\Stephen.Carter\source\repos\AutoRepairBill\AutoRepairBill\bin\Debug\AutoRepairBill.exe.config
+C:\Users\Stephen.Carter\source\repos\AutoRepairBill\AutoRepairBill\bin\Debug\AutoRepairBill.exe
+C:\Users\Stephen.Carter\source\repos\AutoRepairBill\AutoRepairBill\bin\Debug\AutoRepairBill.pdb
+C:\Users\Stephen.Carter\source\repos\AutoRepairBill\AutoRepairBill\obj\Debug\AutoRepairBill.csprojAssemblyReference.cache
+C:\Users\Stephen.Carter\source\repos\AutoRepairBill\AutoRepairBill\obj\Debug\AutoRepairBill.frmAutoBill.resources
+C:\Users\Stephen.Carter\source\repos\AutoRepairBill\AutoRepairBill\obj\Debug\AutoRepairBill.Properties.Resources.resources
+C:\Users\Stephen.Carter\source\repos\AutoRepairBill\AutoRepairBill\obj\Debug\AutoRepairBill.csproj.GenerateResource.cache
+C:\Users\Stephen.Carter\source\repos\AutoRepairBill\AutoRepairBill\obj\Debug\AutoRepairBill.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.Carter\source\repos\AutoRepairBill\AutoRepairBill\obj\Debug\AutoRepairBill.exe
+C:\Users\Stephen.Carter\source\repos\AutoRepairBill\AutoRepairBill\obj\Debug\AutoRepairBill.pdb
+D:\Study\Intro of Pro\Visual Studio\AutoRepairBill\AutoRepairBill\bin\Debug\AutoRepairBill.exe.config
+D:\Study\Intro of Pro\Visual Studio\AutoRepairBill\AutoRepairBill\bin\Debug\AutoRepairBill.exe
+D:\Study\Intro of Pro\Visual Studio\AutoRepairBill\AutoRepairBill\bin\Debug\AutoRepairBill.pdb
+D:\Study\Intro of Pro\Visual Studio\AutoRepairBill\AutoRepairBill\obj\Debug\AutoRepairBill.csprojAssemblyReference.cache
+D:\Study\Intro of Pro\Visual Studio\AutoRepairBill\AutoRepairBill\obj\Debug\AutoRepairBill.frmAutoBill.resources
+D:\Study\Intro of Pro\Visual Studio\AutoRepairBill\AutoRepairBill\obj\Debug\AutoRepairBill.Properties.Resources.resources
+D:\Study\Intro of Pro\Visual Studio\AutoRepairBill\AutoRepairBill\obj\Debug\AutoRepairBill.csproj.GenerateResource.cache
+D:\Study\Intro of Pro\Visual Studio\AutoRepairBill\AutoRepairBill\obj\Debug\AutoRepairBill.csproj.CoreCompileInputs.cache
+D:\Study\Intro of Pro\Visual Studio\AutoRepairBill\AutoRepairBill\obj\Debug\AutoRepairBill.exe
+D:\Study\Intro of Pro\Visual Studio\AutoRepairBill\AutoRepairBill\obj\Debug\AutoRepairBill.pdb
+D:\Study\_Term1\Intro of Pro\Visual Studio\AutoRepairBill\AutoRepairBill\bin\Debug\AutoRepairBill.exe.config
+D:\Study\_Term1\Intro of Pro\Visual Studio\AutoRepairBill\AutoRepairBill\bin\Debug\AutoRepairBill.exe
+D:\Study\_Term1\Intro of Pro\Visual Studio\AutoRepairBill\AutoRepairBill\bin\Debug\AutoRepairBill.pdb
+D:\Study\_Term1\Intro of Pro\Visual Studio\AutoRepairBill\AutoRepairBill\obj\Debug\AutoRepairBill.csproj.AssemblyReference.cache
+D:\Study\_Term1\Intro of Pro\Visual Studio\AutoRepairBill\AutoRepairBill\obj\Debug\AutoRepairBill.frmAutoBill.resources
+D:\Study\_Term1\Intro of Pro\Visual Studio\AutoRepairBill\AutoRepairBill\obj\Debug\AutoRepairBill.Properties.Resources.resources
+D:\Study\_Term1\Intro of Pro\Visual Studio\AutoRepairBill\AutoRepairBill\obj\Debug\AutoRepairBill.csproj.GenerateResource.cache
+D:\Study\_Term1\Intro of Pro\Visual Studio\AutoRepairBill\AutoRepairBill\obj\Debug\AutoRepairBill.csproj.CoreCompileInputs.cache
+D:\Study\_Term1\Intro of Pro\Visual Studio\AutoRepairBill\AutoRepairBill\obj\Debug\AutoRepairBill.exe
+D:\Study\_Term1\Intro of Pro\Visual Studio\AutoRepairBill\AutoRepairBill\obj\Debug\AutoRepairBill.pdb

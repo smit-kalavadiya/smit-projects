@@ -1,0 +1,43 @@
+body  
+{  
+    margin-left: auto;
+    margin-right: auto;
+    width:80%;
+    background-image: linear-gradient(to right,#EF2D36, #9B0082);
+    font-family: 'Arial';  
+}  
+.login{  
+    width: 380px;  
+    overflow: hidden;  
+    margin: auto;  
+    margin: 20 0 0 450px;  
+    padding: 40px;  
+    background-color: #EF2D36;
+    border-radius: 15px ;  
+
+}  
+h2{  
+    text-align: center;  
+    color: whitesmoke;  
+    padding: 8px;  
+}  
+label{  
+    color: whitesmoke;  
+    font-size: 17px;  
+}  
+#email,#phone,#Uname,#Address,#Pass,#reg,#log,#id{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+} 
+span{  
+    color: white;  
+    font-size: 17px;  
+}  
+a{  
+    float: right;
+    text-decoration: none;
+    color: white;
+} 
